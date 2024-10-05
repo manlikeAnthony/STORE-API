@@ -1,0 +1,178 @@
+[
+    {
+      "name": "Sofa",
+      "price": 499.99,
+      "featured": true,
+      "rating": 4.8,
+      "company": "ikea"
+    },
+    {
+      "name": "Dining Table",
+      "price": 799.99,
+      "featured": false,
+      "rating": 4.5,
+      "company": "liddy"
+    },
+    {
+      "name": "Office Chair",
+      "price": 149.99,
+      "featured": true,
+      "rating": 4.7,
+      "company": "caressa"
+    },
+    {
+      "name": "Bed Frame",
+      "price": 399.99,
+      "featured": false,
+      "rating": 4.6,
+      "company": "macros"
+    },
+    {
+      "name": "Bookshelf",
+      "price": 99.99,
+      "featured": false,
+      "rating": 4.4,
+      "company": "ikea"
+    },
+    {
+      "name": "Lamp",
+      "price": 29.99,
+      "featured": true,
+      "rating": 4.5,
+      "company": "liddy"
+    },
+    {
+      "name": "Coffee Table",
+      "price": 89.99,
+      "featured": false,
+      "rating": 4.3,
+      "company": "caressa"
+    },
+    {
+      "name": "Wardrobe",
+      "price": 599.99,
+      "featured": true,
+      "rating": 4.9,
+      "company": "macros"
+    },
+    {
+      "name": "Recliner Chair",
+      "price": 349.99,
+      "featured": true,
+      "rating": 4.7,
+      "company": "ikea"
+    },
+    {
+      "name": "Outdoor Bench",
+      "price": 199.99,
+      "featured": false,
+      "rating": 4.5,
+      "company": "liddy"
+    },
+    {
+         "name": "Desk",
+          "price": 199.99,
+          "featured": true,
+          "rating": 4.6,
+          "company": "ikea"
+        },
+        {
+          "name": "Bedside Table",
+          "price": 59.99,
+          "featured": false,
+          "rating": 4.2,
+          "company": "liddy"
+        },
+        {
+          "name": "Wardrobe Mirror",
+          "price": 129.99,
+          "featured": true,
+          "rating": 4.7,
+          "company": "caressa"
+        },
+        {
+          "name": "Patio Set",
+          "price": 549.99,
+          "featured": true,
+          "rating": 4.9,
+          "company": "macros"
+        },
+        {
+          "name": "Bar Stool",
+          "price": 79.99,
+          "featured": false,
+          "rating": 4.4,
+          "company": "ikea"
+        },
+        {
+          "name": "Leather Sofa",
+          "price": 899.99,
+          "featured": true,
+          "rating": 4.8,
+          "company": "liddy"
+        },
+        {
+          "name": "Dining Chair",
+          "price": 59.99,
+          "featured": false,
+          "rating": 4.1,
+          "company": "caressa"
+        },
+        {
+          "name": "Storage Box",
+          "price": 19.99,
+          "featured": false,
+          "rating": 4.3,
+          "company": "macros"
+        },
+        {
+          "name": "TV Stand",
+          "price": 249.99,
+          "featured": true,
+          "rating": 4.7,
+          "company": "ikea"
+        },
+        {
+          "name": "Nightstand",
+          "price": 89.99,
+          "featured": false,
+          "rating": 4.5,
+          "company": "liddy"
+        },
+        {
+          "name": "Console Table",
+          "price": 159.99,
+          "featured": true,
+          "rating": 4.6,
+          "company": "caressa"
+        },
+        {
+          "name": "Bookshelf",
+          "price": 129.99,
+          "featured": true,
+          "rating": 4.5,
+          "company": "macros"
+        },
+        {
+          "name": "Futon",
+          "price": 299.99,
+          "featured": true,
+          "rating": 4.7,
+          "company": "ikea"
+        },
+        {
+          "name": "Accent Chair",
+          "price": 219.99,
+          "featured": false,
+          "rating": 4.6,
+          "company": "liddy"
+        },
+        {
+          "name": "Coffee Mug",
+          "price": 9.99,
+          "featured": false,
+          "rating": 4.2,
+          "company": "caressa"
+        }
+  ]
+  
